@@ -1,0 +1,1 @@
+Pour éviter de juste copier le code du prof et être vraiment capable de créer une appli web avec emberJs j'ai choisis de recommencer les td à zero.
